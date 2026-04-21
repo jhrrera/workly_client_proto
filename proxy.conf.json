@@ -1,0 +1,12 @@
+{
+  "/auth": {
+    "target": "http://159.203.82.164:8080",
+    "secure": false,
+    "changeOrigin": true
+  },
+  "/api": {
+    "target": "http://159.203.82.164:8080",
+    "secure": false,
+    "changeOrigin": true
+  }
+}

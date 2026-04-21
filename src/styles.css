@@ -1,1 +1,20 @@
-/* You can add global styles to this file, and also import other style files */
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background-color: #cbe7e7;
+  color: #0a8080;
+}
+
+.ant-menu-light .ant-menu-item-selected a,
+.ant-menu-light .ant-menu-item-selected a:hover {
+  color: #0a8080;
+}
+
+.ant-menu-light .ant-menu-item:hover,
+.ant-menu-light .ant-menu-submenu-title:hover {
+  color: #0a8080;
+}
+
+
+.ant-tree .ant-tree-node-content-wrapper.ant-tree-node-selected {
+     background-color: #cbe7e7;
+    color: #0a8080;
+}
